@@ -1,0 +1,13 @@
+{
+  "name": "GIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^17.0.2"
+    // Assurez-vous qu'il y a une virgule ici si d'autres dépendances suivent
+  },
+  "scripts": {
+    "lint": "eslint **/*.js"
+    // Plus de scripts peuvent suivre, séparés par des virgules
+  }
+  // Autres propriétés si nécessaire
+}
