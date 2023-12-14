@@ -1,0 +1,18 @@
+# Guide de Contribution
+
+Merci de considérer la contribution à notre projet GIT! En tant que contributeur, voici quelques lignes directrices pour vous aider à participer de manière constructive.
+
+## Comment Contribuer
+
+1 : Initilisez votre repo local et cloner le repo distant
+
+2 : Pull le projet et les branches
+
+3 : Créez votre branche et des branches sur celle ci afin de travailler dessus
+
+4 : Faites des Issues pour demander des fonctionnalités ou reporter des bugs
+
+5 : Une fois vos modification faites, pushez vos modifications sur la branche dev, puis sur le master
+
+## Remerciements
+Nous apprécions vos efforts pour contribuer à notre projet Discord et vous remercions pour votre engagement envers son amélioration continue!
