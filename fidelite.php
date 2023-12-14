@@ -1,3 +1,3 @@
 <?php
-    echo "Fidélit
+    echo "Fidélité";
 ?>
